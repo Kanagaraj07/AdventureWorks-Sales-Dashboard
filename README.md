@@ -171,7 +171,7 @@ AdventureWorks-Sales-Dashboard/
 
 1. **Clone** the repository
    ```bash
-   git clone https://github.com/<your-username>/AdventureWorks-Sales-Dashboard.git
+   git clone https://github.com/Kanagaraj07/AdventureWorks-Sales-Dashboard.git
    ```
 2. Install **Power BI Desktop** (free, Windows): https://powerbi.microsoft.com/desktop/
 3. Open `dashboard/saleswork.pbix`
@@ -195,9 +195,9 @@ AdventureWorks-Sales-Dashboard/
 
 **Kanagaraj**  
 B.Tech – Artificial Intelligence & Data Science  
-🔗 LinkedIn: _add your link_  
-📧 Email: _add your email_  
-💻 GitHub: _add your link_
+🔗 LinkedIn: https://www.linkedin.com/in/kanagaraj-s-sk007/
+📧 Email: skanagaraj1307@gmail.com
+💻 GitHub: https://github.com/Kanagaraj07
 
 ---
 
