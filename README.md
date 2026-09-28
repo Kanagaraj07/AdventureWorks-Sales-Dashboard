@@ -194,9 +194,12 @@ AdventureWorks-Sales-Dashboard/
 ## 👤 Author
 
 **Kanagaraj**  
-B.Tech – Artificial Intelligence & Data Science  
+B.Tech – Artificial Intelligence & Data Science
+
 🔗 LinkedIn: https://www.linkedin.com/in/kanagaraj-s-sk007/
+
 📧 Email: skanagaraj1307@gmail.com
+
 💻 GitHub: https://github.com/Kanagaraj07
 
 ---
