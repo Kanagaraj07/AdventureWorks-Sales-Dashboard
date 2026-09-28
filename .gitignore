@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter / notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Environment files
+.env
+.env.*
+
+# Build and generated output
+build/
+dist/
+out/
+site/
+coverage/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node / frontend caches (if applicable)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Data artifacts (keep raw source data if needed; comment out if you want to track it)
+# data/*.csv
+# data/*.xlsx
+
+# Local project files
+*.local
