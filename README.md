@@ -119,8 +119,6 @@ A detailed table (product name, order number, product key, quantity, line items,
 
 ## 💡 Key Insights
 
-## 💡 Key Insights
-
 - **H1 2017 revenue reached ₹9.19M** (Jan–Jun 2017), with **₹5.30M in cost** and **₹3.89M in profit** — a healthy **42.3% profit margin**.
 - Revenue **grew every single month**, from ₹1.27M in January to ₹1.83M in June — a **43% increase** over the 6-month window, with June the strongest month and January the weakest.
 - **11,839 orders** were placed by **10,502 unique customers**, averaging **₹875 in revenue per customer**.
