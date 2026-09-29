@@ -157,12 +157,11 @@ AdventureWorks-Sales-Dashboard/
 │   └── AdventureWorks_Territories.xlsx
 │
 ├── images/
-│   ├── dashboard_overview.png        # Main dashboard screenshot
-│   ├── validation_page.png           # Validation page screenshot
-│   └── data_model.png                # Model view screenshot
-│
-└── docs/
-    └── dax_measures.md               # (optional) all DAX measures with explanations
+   ├── dashboard_overview.png        # Main dashboard screenshot
+   ├── validation_page.png           # Validation page screenshot
+   └── data_model.png                # Model view screenshot
+
+
 ```
 
 ---
