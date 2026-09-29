@@ -124,7 +124,7 @@ A detailed table (product name, order number, product key, quantity, line items,
 - **11,839 orders** were placed by **10,502 unique customers**, averaging **₹875 in revenue per customer**.
 - The **Mountain-200 series** dominates sales — 6 of its color/size variants make up the **top 6 products by revenue**, and the top 5 products alone account for **27% of total revenue**, signalling a heavy reliance on one product line.
 - No single customer dominates revenue — even the **top 10 customers combined make up under 1%** of total revenue, showing a broad, non-concentrated customer base (a positive for risk, but also shows there's no "VIP" segment being specially served).
-- **United States is the top market** (~$3.13M revenue, ~$1.34M profit), followed by **Australia** (~$2.41M) and the **United Kingdom** (~$1.12M).
+- **United States is the top market** ($3.13M revenue, $1.34M profit), followed by **Australia** ($2.41M) and the **United Kingdom** ($1.12M).
 - **Australia** is Power BI's top *region* by profit even though the US leads by country — worth calling out since the map/treemap visuals split by country vs. territory.
 - **Central, Northeast, and Southeast** U.S. regions contribute almost nothing (well under $10K each) compared to Northwest/Southwest — a big imbalance within the U.S. itself.
 ---
